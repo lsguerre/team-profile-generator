@@ -7,3 +7,4 @@
 
 ## Links
 * demo video: https://drive.google.com/file/d/1zENuD8LwmRMpl8PmwcEcU86eqRWfrAb3/view
+* ![team profile demo (1)](https://user-images.githubusercontent.com/88417140/161740147-42d4405a-b5f2-4593-9fae-ad39168341a3.gif)
